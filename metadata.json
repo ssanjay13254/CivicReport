@@ -1,0 +1,11 @@
+{
+  "name": "CivicReport",
+  "description": "Smart city incident resolution portal with interactive Google Maps GIS tracking, citizen reporting, and ward dispatch management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
